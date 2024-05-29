@@ -2,10 +2,10 @@
 <h2 align="left">Olá👋!Bem vindo ao meu perfil do GitHub.</h2>
 <div>
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stephanie-marys&theme=github_dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Stephanie-marys&theme=github_dracula)
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stephanie-marys&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Stephanie-marys&theme=github_dark)
 | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Stephanie-marys&theme=github_dark&utcOffset=-8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Stephanie-marys&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Stephanie-marys&theme=github_dark)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Stephanie-marys&theme=github_dark&utcOffset=-5) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Stephanie-marys&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Stephanie-marys&theme=github_dark)
 | :-: | :-: | :-: |
   
 </div>
