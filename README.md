@@ -1,12 +1,13 @@
 
 <h2 align="left">Olá👋!Bem vindo ao meu perfil do GitHub.</h2>
-<div class="tenor-gif-embed" data-postid="10535551562429100624" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hello-world-gif-10535551562429100624">Hello World GIF</a>from <a href="https://tenor.com/search/hello+world-gifs">Hello World GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="10535551562429100624" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+ <a href="https://tenor.com/view/hello-world-gif-10535551562429100624">Hello World GIF</a>from <a href="https://tenor.com/search/hello+world-gifs">Hello World GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
 <div>
 <a href="https://github.com/stephanie-marys">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?stephanie-marys&layout=compact&langs_count=7&theme=dracula"/>
+
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?stephanie-marys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
 
