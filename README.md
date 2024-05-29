@@ -13,12 +13,6 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
-###
-
-<div>
-<a href="https://github.com/Stephanie-marys">
-
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?stephanie-marys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
 
 ###
