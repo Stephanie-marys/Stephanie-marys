@@ -1,5 +1,5 @@
 
-<h2 align="left">Olá👋!Bem vindo ao meu perfil do GitHub.</h2>
+<h1 align="center">Bem vindo ao meu perfil do GitHb!</h1>
 <div>
 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stephanie-marys&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Stephanie-marys&theme=github_dark)
@@ -28,14 +28,7 @@
 ###
 
 <div align="left">
-  <a href = "mailto:stephanie.mmarys01@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:stephanie.mmarys01@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"></a>
   <a href="https://www.linkedin.com/in/stephanie-marys-3635b0212" a><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"  height="35" alt="linkedin logo" />
 </div>
 
-###
-
-
-
-![Snake animation](https://github.com/stephanie-marys/blob/output/github-contribution-grid-snake.svg)
-
-###
