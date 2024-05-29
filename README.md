@@ -1,5 +1,5 @@
 
-<h1> align="left">Olá👋! Meu nome é Stephanie Marys e eu tenho 24anos.</h1>
+<h2 align="left">Olá👋! Meu nome é Stephanie Marys e eu tenho 24anos.</h2>
 
 ###
 
