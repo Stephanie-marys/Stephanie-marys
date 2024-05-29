@@ -1,11 +1,12 @@
 
-<h2 align="left">Olá👋! Meu nome é Stephanie Marys e eu tenho 24 anos.</h2>
+<h2 align="left">Olá👋!Bem vindo ao perfil do GitHub.</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stephanie-marys&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+<div>
+<a href="https://github.com/stephanie-marys">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?stephanie-marys&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?stephanie-marys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
 
 ###
@@ -21,6 +22,7 @@
 ###
 
 <div align="left">
+  <a href = "mailto:stephanie.mmarys01@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/stephanie-marys-3635b0212" a><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"  height="35" alt="linkedin logo" />
 </div>
 
@@ -28,6 +30,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/stephanie-marys/stephanie-marys/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/stephanie-marys/stephanie-marys/blob/output/github-contribution-grid-snake.svg)
 
 ###
