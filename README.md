@@ -28,7 +28,7 @@
 
 ###
 
-<br clear="both">
+
 
 ![Snake animation](https://github.com/stephanie-marys/stephanie-marys/blob/output/github-contribution-grid-snake.svg)
 
