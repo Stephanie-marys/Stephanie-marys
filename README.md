@@ -5,7 +5,13 @@
 
 - 💻Technical support intern at alt.bank
 
-- 💬 Technologies and tools **JavaScript, HTML, C,C#, SQL, Python,Git,Github**
+- 🚀 Programming languages:
+
+[![My Skills](https://skillicons.dev/icons?i=c#,python,javascript,c,)](https://skillicons.dev)<br><br>
+
+- 🛠️ Tools and technologies:
+[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github)](https://skillicons.dev)<br><br>
+
   
 - ✒️ Hobby: Solving riddles.
 
@@ -23,7 +29,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stephanie-marys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 
 
