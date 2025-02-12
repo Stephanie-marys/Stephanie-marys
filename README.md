@@ -7,11 +7,12 @@
 
 - 🚀 Programming languages:
 
-##
+
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,c)](https://skillicons.dev)<br><br>
 
 - 🛠️ Tools and technologies:
-##
+
+
 [![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github)](https://skillicons.dev)<br><br>
 
   
