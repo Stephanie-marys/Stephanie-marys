@@ -4,6 +4,8 @@
 - 📚Software engineering student - IFSP
 
 - 💻Technical support intern at alt.bank
+  
+- 📝 Basic knowledge : English and German
 
 - 🚀 Programming languages:
 
