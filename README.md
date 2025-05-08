@@ -5,7 +5,7 @@
 
 - 💻Technical support intern at alt.bank
   
-- 📝 Basic knowledge : English and German
+- 📝 Basic knowledge : Portuguese,English and German
 
 - 🚀 Programming languages:
 
