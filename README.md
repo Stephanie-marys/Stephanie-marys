@@ -10,7 +10,7 @@
 - 🚀 Programming languages:
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,c,c#)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,c,csharp)](https://skillicons.dev)<br><br>
 
 - 🛠️ Tools and technologies:
 
