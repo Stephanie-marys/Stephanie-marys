@@ -4,17 +4,17 @@
 - 💻 Technical support intern at alt.bank  
 - 📝 Basic knowledge: Portuguese, English and German  
 
----
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 ### 🚀 Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,c,csharp)](https://skillicons.dev)
 
----
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 ### 🛠️ Tools and Technologies
 [![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github,aws,grafana)](https://skillicons.dev)
 
----
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 - ✒️ Hobby: Solving riddles.  
 - 👩🏽‍💻 More at:
@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/stephanie-marys-3635b0212"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"  height="35" alt="linkedin logo" /></a>
 </div>
 
----
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 ### ⚡ GitHub Stats
 
