@@ -27,10 +27,28 @@
 ---
 
 ### ⚡ GitHub Stats
+
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Minhas Estatísticas no GitHub</h2>
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StephanieMarys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanieMarys&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stephanie-marys&theme=react" width="100%">
 </div>
+
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Stephanie-marys&theme=react" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Stephanie-marys&theme=react" width="49%">
+</p>
+
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MMVonnSeek&theme=react" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Stephanie-marys&theme=react&utcOffset=8" width="49%">
+</p>
+
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 
 
