@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Stephanie Marys</h1>
 
 - 📚 Software engineering student - IFSP  
-- 💻 Technical support intern at alt.bank  
+- 💻 Trainee at alt.bank  
 - 📝 Basic knowledge: Portuguese, English and German  
 
 <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
