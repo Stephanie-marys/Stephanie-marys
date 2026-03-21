@@ -7,12 +7,12 @@
 <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 ### 🚀 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,c,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,c)](https://skillicons.dev)
 
 <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 ### 🛠️ Tools and Technologies
-[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github,aws,grafana,react,vite,postgres,linux,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github,aws,grafana,react,vite,postgres,linux,postman,docker)](https://skillicons.dev)
 
 <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
